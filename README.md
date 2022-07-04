@@ -2,7 +2,7 @@
 
 Example buildout project where the `portal_catalog` is split on its own database ZODB database file.
 
-This is based on a [thread from 2006 on plone_users mailing list](https://sourceforge.net/p/plone/mailman/plone-users/thread/77be04730612180735we69c8ffibeeb3072ff553a3b%40mail.gmail.com/).
+This is based on a [thread from 2006 on plone_users mailing list](https://sourceforge.net/p/plone/mailman/plone-users/thread/77be04730612180735we69c8ffibeeb3072ff553a3b%40mail.gmail.com/). See also [another source](https://www.plone-entwicklerhandbuch.de/produktivserver/performance/zcatalog/katalog-in-eigener-zodb).
 
 ## Why?
 
